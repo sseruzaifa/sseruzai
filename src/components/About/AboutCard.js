@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Huzaifa SSERUGO </span>
+            Hello, and thank you for passing by...<br/> I am <span className="purple">Huzaifa SSERUGO </span>
             from <span className="purple"> Kampala, Uganda.</span>
             <br /> I am an Electrical Engineer working with Mantrac Uganda; currently deployed in Buliisa 
             working with Total in the Tilenga project; oversseing generators supplying power to the different 
@@ -29,6 +29,12 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> watching documentaries
+            </li>
+
+            <li className="about-activity">
+              <ImPointRight /> by the way, Ten Haag has not treated Pelistri fairly! The boy deserves more playing time. <br/>
+              also, Rashford is not a reliable winger, and Antony wastes so many good balls.
+              <br/> Also W Sneako, L Redpill, W Pxie, L Feminism
             </li>
           </ul>
 
