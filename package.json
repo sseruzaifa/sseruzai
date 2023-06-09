@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "private": true,
   "homepage": "https://sseruzaifa.github.io/portfolio/",
   "dependencies": {
     "@react-pdf/renderer": "^2.3.0",
