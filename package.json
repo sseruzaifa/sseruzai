@@ -1,8 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  // "private": true,
-  "homepage" : "https://sseruzaifa.github.io/portfolio"
+  "homepage" : "https://sseruzaifa.github.io/portfolio",
   "dependencies": {
     "@react-pdf/renderer": "^2.3.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -28,7 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "install": "react-scripts install"
   },
   "eslintConfig": {
     "extends": [
